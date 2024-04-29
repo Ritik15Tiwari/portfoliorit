@@ -1,2 +1,1 @@
-# portfoliorit
-Adding files of portfolio
+# Here is my portfolio website which shows my skills and project.
